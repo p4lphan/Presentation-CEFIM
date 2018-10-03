@@ -38,7 +38,7 @@
 							<li>Base de données : MySQL, MSSQL</li>
 							<li>Language de programmation : Python, JAVA</li>
 							<li>WEB : HTML5, CSS3</li>
-							<li>OS : mac, linux, windows
+							<li>OS : mac, linux, windows</li>
 							<li>-------- Compétences souhaitées après la formation ------------</li>
 							<li>Design : illustrator, photoshop</li>
 							<li>Front end : javascript, js</li>
