@@ -61,7 +61,7 @@
 						<ul>
 							<li>Voyages</li>
 							<li>Musique</li>
-							<li>cuisine</li>
+							<li>Cuisine</li>
 							<li>Badminton</li>								
 						</ul>		
 				</div>
