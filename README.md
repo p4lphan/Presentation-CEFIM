@@ -5,10 +5,7 @@
 				<div id="presentation">
 					<h1 id="titre">Paul PHAN</h1>
 					<!-- Description -->
-					<h2>Ingénieur de développement informatique industrielle en reconversion dans les métiers du 
-					<h1 id="titre">Paul PHAN</h1>
-					<!-- Description -->
-					<h2>Ingénieur de développement informatique industrielle en reconversion dans les métiers du web</h2>					
+					<h2>Ingénieur de développement informatique industrielle en reconversion dans les métiers du 	
 				</div>
 				<!--Photo -->
 				<a id="photo" href="img/cv.png" target="blank" title="photo aggrandi"><img src="cv.png" alt="Photo d'identité" title="Paul PHAN" width="200px" /></a>
