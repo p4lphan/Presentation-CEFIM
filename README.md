@@ -73,5 +73,5 @@
 						</ul>		
 				</div>
 			</section>
-		<section>
+		</section>
     </body>
