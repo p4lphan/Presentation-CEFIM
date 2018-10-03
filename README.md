@@ -5,14 +5,14 @@
 				<div id="presentation">
 					<h1 id="titre">Paul PHAN</h1>
 					<!-- Description -->
-					<h2>Ingénieur de développement informatique industrielle en reconversion dans les métiers du 	
+					<h2>Ingénieur de développement informatique industrielle en reconversion dans les métiers du web</h2>					
 				</div>
 				<!--Photo -->
-				<a id="photo" href="img/cv.png" target="blank" title="photo aggrandi"><img src="cv.png" alt="Photo d'identité" title="Paul PHAN" width="200px" /></a>
+				<a id="photo" href="img/cv.png" target="blank" title="photo aggrandi"><img src="cv.png" alt="Photo d'identité" title="Paul PHAN" /></a>
 			</header>
 			<!-- Corps -->
 			<section id="contenu">
-				<!--expérience -->
+				<!--explication -->
 				<div id="explication">
 					<h2>Qui suis-je ?</h2>
 					<p>Je suis ingénieur en informatique diplomé de l'ESIR (Ecole supérieur d'Ingénieurs de Rennes)  option télécommunication et spécialité domotique, Immotique et réseaux du bâtiment. 
@@ -22,7 +22,6 @@
 					J'ai choisi d'entreprendre une reconversion professionnelle dans les métiers du web. 
 					Je vois l'oppurtunité de faire un métier plus satisfaisant en terme de compétences techniques et d'humain.</p>
 				</div>
-				<!--compétence -->
 				<!--expérience -->
 				<div id="experience">
 					<h2>Mon expérience</h2>
@@ -42,7 +41,7 @@
 							<li>OS : mac, linux, windows
 							<li>-------- Compétences souhaitées après la formation ------------</li>
 							<li>Design : illustrator, photoshop</li>
-							<li>Front end : javascript,js</li>
+							<li>Front end : javascript, js</li>
 							<li>Back end : PHP symphony</li>
 						</ul>		
 				</div>
