@@ -1,3 +1,4 @@
+<body>
 		<section id="main_frame">			
 			<!-- header -->
 			<header>
@@ -7,7 +8,7 @@
 					<h2>Ingénieur de développement informatique industrielle en reconversion dans les métiers du web</h2>					
 				</div>
 				<!--Photo -->
-				<a id="photo" href="img/cv.png" target="blank" title="photo aggrandi"><img src="cv.png" alt="Photo d'identité" title="Paul PHAN" /></a>
+				<a id="photo" href="img/cv.png" target="blank" title="photo aggrandi"><img src="img/cv.png" alt="Photo d'identité" title="Paul PHAN" /></a>
 			</header>
 			<!-- Corps -->
 			<section id="contenu">
@@ -73,3 +74,4 @@
 				</div>
 			</section>
 		<section>
+    </body>
