@@ -5,6 +5,9 @@
 				<div id="presentation">
 					<h1 id="titre">Paul PHAN</h1>
 					<!-- Description -->
+					<h2>Ingénieur de développement informatique industrielle en reconversion dans les métiers du 
+					<h1 id="titre">Paul PHAN</h1>
+					<!-- Description -->
 					<h2>Ingénieur de développement informatique industrielle en reconversion dans les métiers du web</h2>					
 				</div>
 				<!--Photo -->
